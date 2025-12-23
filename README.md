@@ -6,8 +6,8 @@ Retailers want to understand which products are commonly bought together to opti
 ### Dataset
 The dataset I used contains transaction data from 2023-2025 from a multi location grocery chain. Each row represents an item purchased in a transaction, including transaction date, product information, and quantity.
 
-Source: Kaggle - Grocery Store Sales Dataset in 2025 - 1900+ Record 
-https://www.kaggle.com/datasets/pratyushpuri/grocery-store-sales-dataset-in-2025-1900-record
+Source: Kaggle - Groceries Market Basket Dataset
+https://www.kaggle.com/datasets/irfanasrullah/groceries
 
 ### Goals
 My goals of this project are to:
