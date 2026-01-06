@@ -1,4 +1,5 @@
 Clean and processed data goes here
+**categories - test.csv**: manually made categories for each item
 
 **grocery_transactions_cleaned.csv**: the cleaned csv version of data, one row per transaction, used for visual purposes
 
