@@ -34,17 +34,21 @@ My goals of this project are to:
 grocery-basket-analysis/
 ├── data/
 │ ├── raw/
+│ ├ |── groceries - groceries.csv
+│ ├ |── README.me
 │ └── processed/
+│ ├ |── README.me
+│ ├ |── categories - test.csv
+│ ├ |── grocery_transactions_clean.csv
+│ ├ |── transactions_clean.pkl
 ├── notebooks/
 │ ├── 01_data_cleaning.ipynb
-│ └── 02_eda.ipynb
-├── src/
-├── images/
+│ └── 02_grocery_eda.ipynb
 └── README.md
 
 ### Project Status
 - [x] Data cleaning
-- [ ] Exploratory data analysis
+- [x] Exploratory data analysis
 - [ ] Association rule mining
 - [ ] Modeling and evaluation
 
